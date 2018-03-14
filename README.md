@@ -12,7 +12,11 @@ Wireframe and draw the entire website on a piece of paper
 
 Provide a copy of the wireframe and all related material to Jeff for morning coding shift
 
-Submit entire project Devpost for final review prior to presentation
+Fill in all of the marketing collateral on the website. Make the product and it's utility self explanatory.
+
+Submit entire project to Devpost for final review prior to presentation
+
+Wednesday 12pm to 1pm: Spend at least one hour working on the presentation of the product.
 
 
 
