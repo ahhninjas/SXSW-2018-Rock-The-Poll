@@ -11,13 +11,14 @@ Create voting capabilities --> https://samsclass.info/141/proj/pMult2.htm
 
 Using promoter API's --> Wasted too much time trying to get npm modules loaded and operating correctly. 
 
-"multichain-api": "^1.0.0-alpha.8"
-"multichain-node": "^2.1.6-version1.0.2"
-"cloudinary": "^1.10.0"   
+API's & Wrappers Being Used -
+"multichain-api@1.0.0-alpha.8"
+"multichain-node@2.1.6-version1.0.2"
+"cloudinary@1.10.0"   
         
         The cloudinary api was throwing me threw a loop, putting my images up on the screen and then hiding them, must have had my webapp misconfigured somewhere & with little time to look for another workaround. 
         
-        [![IMAGE ALT TEXT HERE](https://image.ibb.co/bL0TEc/not_defined.png)](https://www.youtube.com/watch?v=aY7D5cneXAg)
+  [![Loop](https://image.ibb.co/bL0TEc/not_defined.png)](https://www.youtube.com/watch?v=aY7D5cneXAg)
         
         
         https://youtu.be/aY7D5cneXAg
