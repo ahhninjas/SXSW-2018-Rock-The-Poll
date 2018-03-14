@@ -1,9 +1,27 @@
-# rockandroll-poll
-rockandroll poll - sxsw hackathon
+# Rock and Roll Poll
 
-Action plan:
+# Action Plan:
+Boilerplate web application 
+Create voting capabilities using promoter api's
 
-boilerplate web app 
-with voting capabilities
-using promoter api's
+
+
+Design UI and Bootstrap Elements to represent idea
+Wireframe and draw the entire website
+Provide a copy of that information to Jeff for morning coding shift
+
+
+Submit Devpost final form for review
+
+# Facebook API
+Integration method?
+
+# Cloudinary API
+Integration method?
+
+# Alexa API
+Voice Functions
+Play Specific Song
+State Song/Band/Artist Details From Wikipedia (API)
+Search For Artist, Band, Song, Time Frame, Genre
 
