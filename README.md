@@ -17,7 +17,13 @@ Using promoter API's --> Wasted too much time trying to get npm modules loaded a
         
         The cloudinary api was throwing me threw a loop, putting my images up on the screen and then hiding them, must have had my webapp misconfigured somewhere & with little time to look for another workaround. 
         
+        [![IMAGE ALT TEXT HERE](https://image.ibb.co/bL0TEc/not_defined.png)](https://www.youtube.com/watch?v=aY7D5cneXAg)
+        
+        
+        https://youtu.be/aY7D5cneXAg
+        
         [loop](https://youtu.be/aY7D5cneXAg)
+        https://image.ibb.co/bL0TEc/not_defined.png
         
         Poll Server Info - 
         AWS Service -- Ubuntu x64
