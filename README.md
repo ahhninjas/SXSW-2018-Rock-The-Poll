@@ -6,13 +6,10 @@ This ReadMe will provide you with the steps to properly use the Rock The Poll we
 
 
 <dl>
-  <dt>Front-End Web Boilerplate</dt>
-  <dd>Is something people use sometimes.</dd>
-![rough_draft](https://github.com/ahhninjas/rockpoll/blob/master/Screenshot_2018-03-14_10-07-54.png?raw=true "Rough Draft Web App")
-
-  <dt>MultiChain Back-End</dt>
-  <dd>To store the voting results in a decentralized manner.</dd>
-![final_fe](https://github.com/ahhninjas/rockpoll/blob/master/rockthepoll.png?raw=true "Candidate Selection")
+  <dt>API's & Wrapper Used</dt>
+  <a href="https://github.com/cloudinary/cloudinary_npm"><dd>Cloudinary</dd></a>
+  <dt>Other Services</dt>
+  <dd>Amazon AWS for Cloud Services</dd>
 </dl>
 
 ![rough_draft](https://github.com/ahhninjas/rockpoll/blob/master/Screenshot_2018-03-14_10-07-54.png?raw=true "Rough Draft Web App")
