@@ -1,15 +1,20 @@
-# Rock and Roll Poll
+# Rock The Poll
+
+This ReadMe will provide you with the steps to properly use the Rock The Poll web application. 
 
 ![rough_draft](https://github.com/ahhninjas/rockpoll/blob/master/Screenshot_2018-03-14_10-07-54.png?raw=true "Rough Draft Web App")
 
 ![final_fe](https://github.com/ahhninjas/rockpoll/blob/master/rockthepoll.png?raw=true "Candidate Selection")
 
-
 # To Do:
 
-Boilerplate web application --> https://github.com/infopirate/ghapplate
+The Boilerplate web application for Rock The Poll can be found at
 
-Create voting capabilities --> https://samsclass.info/141/proj/pMult2.htm
+https://github.com/infopirate/ghapplate
+
+The code that was used to create voting capabilities can be found at
+
+https://samsclass.info/141/proj/pMult2.htm
 
 Using promoter API's --> Wasted too much time trying to get npm modules loaded and operating correctly. 
 
