@@ -9,7 +9,7 @@ This ReadMe will provide you with the steps to properly use the Rock The Poll we
   <dt>API's & Wrapper Used</dt>
   <a href="https://github.com/cloudinary/cloudinary_npm"><dd>Cloudinary</dd></a>
   <dt>Other Services</dt>
-  <dd>Amazon AWS for Cloud Services</dd>
+  <a href="https://aws.amazon.com/"><dd>Amazon AWS for Cloud Services</dd></a>
 </dl>
 
 ![rough_draft](https://github.com/ahhninjas/rockpoll/blob/master/Screenshot_2018-03-14_10-07-54.png?raw=true "Rough Draft Web App")
