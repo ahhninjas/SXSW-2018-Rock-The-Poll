@@ -8,8 +8,11 @@ This ReadMe will provide you with the steps to properly use the Rock The Poll we
 <dl>
   <dt>API's & Wrapper Used</dt>
   <a href="https://github.com/cloudinary/cloudinary_npm"><dd>Cloudinary</dd></a>
+  <a href="https://www.multichain.com/"><dd>Multichain</dd></a>
+  <a href="https://github.com/scoin/multichain-node"><dd>multichain-node</dd></a>
   <dt>Other Services</dt>
   <a href="https://aws.amazon.com/"><dd>Amazon AWS for Cloud Services</dd></a>
+  <a href="https://aws.amazon.com/"><dd>Amazon Alexa API's & Boilerplates</dd></a>
 </dl>
 
 ![rough_draft](https://github.com/ahhninjas/rockpoll/blob/master/Screenshot_2018-03-14_10-07-54.png?raw=true "Rough Draft Web App")
