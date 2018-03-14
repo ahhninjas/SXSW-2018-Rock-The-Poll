@@ -2,7 +2,7 @@
 
 This ReadMe will provide you with the steps to properly use the Rock The Poll web application. 
 
-![fe-bp](http://webapplate.github.io/ghapplate/public/index.html "Web App Boilerplate")
+![fe-bp](https://github.com/ahhninjas/rockpoll/blob/master/bp.png?raw=true "Web App Boilerplate")
 
 
 <dl>
