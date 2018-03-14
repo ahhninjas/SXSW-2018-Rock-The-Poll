@@ -2,9 +2,11 @@
 
 # Action Plan:
 
-Boilerplate web application
+Boilerplate web application --> https://github.com/infopirate/ghapplate
 
-Create voting capabilities using promoter API's
+Create voting capabilities --> https://samsclass.info/141/proj/pMult2.htm
+
+using promoter API's --> currently adding node modules
 
 Design UI and Bootstrap Elements to represent idea
 
