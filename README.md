@@ -2,24 +2,17 @@
 
 # Action Plan:
 Boilerplate web application 
-Create voting capabilities using promoter api's
-
-
-
+Create voting capabilities using promoter API's
 Design UI and Bootstrap Elements to represent idea
-Wireframe and draw the entire website
-Provide a copy of that information to Jeff for morning coding shift
+Wireframe and draw the entire website on a piece of paper
+Provide a copy of the wireframe and all related material to Jeff for morning coding shift
+Submit entire project Devpost for final review prior to presentation
 
 
 
-
-
-
-Submit Devpost final form for review
-
-# Presentation
-Create a 5 minute presentation highlighting the problem, the background of the problem, and the solution to the problem.
-Spend 45 minutes talking to a wall for speech preparation 
+# Presentation 1pm Deadline
+Create a 5 minute presentation highlighting the problem, the background of the problem, and the solution to the problem. Include complete UI demonstration, and walkthrough in the presentation to show off functionality.
+Spend 45 minutes talking to a wall for speech preparation. Calculate for the usage of technology during the presentation.
 
 # API Integration
 # Facebook API
