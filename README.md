@@ -16,27 +16,32 @@ API's & Wrappers Being Used -
 "multichain-node@2.1.6-version1.0.2"
 "cloudinary@1.10.0"   
         
-        The cloudinary api was throwing me threw a loop, putting my images up on the screen and then hiding them, must have had my webapp misconfigured somewhere & with little time to look for another workaround. 
+The cloudinary api was throwing me threw a loop, putting my images up on the screen and then hiding them, must have had my webapp misconfigured somewhere & with little time to look for another workaround. 
         
   [![Loop](https://image.ibb.co/bL0TEc/not_defined.png)](https://www.youtube.com/watch?v=aY7D5cneXAg)
         
         
-        https://youtu.be/aY7D5cneXAg
         
-        [loop](https://youtu.be/aY7D5cneXAg)
-        https://image.ibb.co/bL0TEc/not_defined.png
-        
-        Poll Server Info - 
+  Poll Server Info - 
         AWS Service -- Ubuntu x64
         MultiChain 2.0 
         
-        https://samsclass.info/141/proj/pMult2.htm -- Building a blockchain survery with multichain walk-thru
-        w/ plans to add streams for user verification techniques.
+ https://samsclass.info/141/proj/pMult2.htm -- Building a blockchain survery with multichain walk-thru
+        (w/ plans to add streams for user verification techniques using streams) not enough hours in the night..
         
-        https://www.gitbook.com/book/cloudinary/sxsw-2018-hackathon-guide/details
-        https://cloudinary.com/documentation/node_image_manipulation#text_layers
+ ![vote_token](https://github.com/ahhninjas/rockpoll/blob/master/get-vote-token.png?raw=true "Get vote Token")
+
+ ![candidate_id](https://github.com/ahhninjas/rockpoll/blob/master/candidate-identity.png?raw=true "Candidate ID")
+   
+   https://www.gitbook.com/book/cloudinary/sxsw-2018-hackathon-guide/details
+   https://cloudinary.com/documentation/node_image_manipulation#text_layers
         
-        multichaind votes@18.219.178.174:9713
+   Results of vote:
+        Tally teh tokens.. Simple, but effective enough for 24 hours..
+        
+      ''' multichaind votes@18.219.178.174:9713 '''
+
+
 
 Design UI and Bootstrap Elements to represent idea.
 
