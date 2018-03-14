@@ -1,5 +1,8 @@
 # Rock and Roll Poll
 
+![alt text](https://github.com/ahhninjas/rockpoll/blob/master/rockthepoll.png?raw=true "Logo Title Text 1")
+
+
 # To Do:
 
 Boilerplate web application --> https://github.com/infopirate/ghapplate
