@@ -1,4 +1,7 @@
 # Rock The Poll
+
+This ReadMe will provide you with the steps to properly use the Rock The Poll web application. 
+
 ![fe-bp](http://webapplate.github.io/ghapplate/public/index.html "Web App Boilerplate")
 
 
@@ -11,9 +14,6 @@
   <dd>To store the voting results in a decentralized manner.</dd>
 ![final_fe](https://github.com/ahhninjas/rockpoll/blob/master/rockthepoll.png?raw=true "Candidate Selection")
 </dl>
-
-
-This ReadMe will provide you with the steps to properly use the Rock The Poll web application. 
 
 ![rough_draft](https://github.com/ahhninjas/rockpoll/blob/master/Screenshot_2018-03-14_10-07-54.png?raw=true "Rough Draft Web App")
 
