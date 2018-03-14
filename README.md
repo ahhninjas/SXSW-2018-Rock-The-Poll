@@ -1,6 +1,8 @@
 # Rock and Roll Poll
 
-![alt text](https://github.com/ahhninjas/rockpoll/blob/master/rockthepoll.png?raw=true "Logo Title Text 1")
+![rough_draft](https://github.com/ahhninjas/rockpoll/blob/master/Screenshot_2018-03-14_10-07-54.png?raw=true "Rough Draft Web App")
+
+![final_fe](https://github.com/ahhninjas/rockpoll/blob/master/rockthepoll.png?raw=true "Candidate Selection")
 
 
 # To Do:
