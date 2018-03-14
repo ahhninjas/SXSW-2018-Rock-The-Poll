@@ -9,7 +9,27 @@ Boilerplate web application --> https://github.com/infopirate/ghapplate
 
 Create voting capabilities --> https://samsclass.info/141/proj/pMult2.htm
 
-Using promoter API's --> currently adding node modules.
+Using promoter API's --> Wasted too much time trying to get npm modules loaded and operating correctly. 
+
+"multichain-api": "^1.0.0-alpha.8",
+    "multichain-node": "^2.1.6-version1.0.2",
+        "cloudinary": "^1.10.0",        
+        
+        The cloudinary api was throwing me threw a loop, putting my images up on the screen and then hiding them, must have had my webapp misconfigured somewhere & with little time to look for another workaround. 
+        
+        (video of loop)
+        
+        Poll Server Info - 
+        AWS Service -- Ubuntu x64
+        MultiChain 2.0 
+        
+        https://samsclass.info/141/proj/pMult2.htm -- Building a blockchain survery with multichain walk-thru
+        w/ plans to add streams for user verification techniques.
+        
+        https://www.gitbook.com/book/cloudinary/sxsw-2018-hackathon-guide/details
+        https://cloudinary.com/documentation/node_image_manipulation#text_layers
+        
+        multichaind votes@18.219.178.174:9713
 
 Design UI and Bootstrap Elements to represent idea.
 
