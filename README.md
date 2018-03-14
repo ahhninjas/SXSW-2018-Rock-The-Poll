@@ -19,7 +19,7 @@ This ReadMe will provide you with the steps to properly use the Rock The Poll we
 
 ![final_fe](https://github.com/ahhninjas/rockpoll/blob/master/rockthepoll.png?raw=true "Candidate Selection")
 
-# To Do:
+# Resources
 
 The Boilerplate web application for Rock The Poll can be found at
 
