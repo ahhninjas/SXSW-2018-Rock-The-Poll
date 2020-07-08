@@ -2,6 +2,13 @@
 
 This ReadMe will provide you with the steps to properly use the Rock The Poll web application. 
 
+Demo:
+[![Demo](https://image.ibb.co/bxFRjc/rockthepoll.png)](https://youtu.be/95V0j6IdoXo)
+        
+
+
+From the beginning;
+
 ![fe-bp](https://github.com/ahhninjas/rockpoll/blob/master/bp.png?raw=true "Web App Boilerplate")
 
 
